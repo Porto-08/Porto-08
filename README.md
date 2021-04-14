@@ -2,11 +2,12 @@ Seja muito Bem Vindo 👋
 ---------------------------------------
 <strong>Sou um Desenvolvedor NodeJs Jr. que ama aprender novas tecnologias e passar esses conhecimentos para as pessoas!</strong>
 
-<strong>Entre em contato comigo e me conheça melhor!:</strong>
+<strong>Entre em contato comigo e me conheça melhor!:</strong> <br />
+ Celular(WhatsApp): +55 (11) 98054-0272 <br />
  www.linkedin.com/in/samuelporto
 
 
-<strong>Linguagens e Ferramentas que utilizo/utilizei:</strong>
+<strong>Linguagens e Ferramentas que trabalho/trabalhei:</strong>
 
 ![React](https://img.shields.io/badge/-React-%23F7DF1C?style=flat-square&logo=react&logoColor=ffffff&labelColor=blue&color=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
