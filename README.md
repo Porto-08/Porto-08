@@ -1,6 +1,6 @@
 Seja muito Bem Vindo 👋
 ---------------------------------------
-<strong>Sou um Desenvolvedor FullStack que ama aprender e resolver probelmas. Gosto muito de passar esses conhecimentos para as pessoas!</strong>
+<strong>Sou um Desenvolvedor FullStack que ama aprender e resolver problemas. Gosto muito de passar esses conhecimentos para as pessoas!</strong>
 
 <strong>Entre em contato comigo e me conheça melhor!:</strong> <br />
  Celular(WhatsApp): +55 (11) 98054-0272 <br />
