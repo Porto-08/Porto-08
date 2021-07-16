@@ -3,7 +3,7 @@ Seja muito Bem Vindo 👋
 <strong>Sou um Desenvolvedor FullStack que ama aprender e resolver problemas. Gosto muito de passar meus conhecimentos para outras pessoas!</strong>
 
 <strong>Entre em contato comigo e me conheça melhor!:</strong> <br />
- Celular(WhatsApp): +55 (11) 98054-0272 <br />
+ Celular(WhatsApp): https://api.whatsapp.com/send?phone=5511980540272&text=Ol%C3%A1%2C%20seja%20bem%20vindo <br />
  www.linkedin.com/in/samuelporto
 
 
